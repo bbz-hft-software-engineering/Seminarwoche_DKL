@@ -1,0 +1,18 @@
+Usecase:
+-> der usecase soll dem finalen Produnkt entsprechen. wenn Änderungen vorgenommen werden, sollten diese dokumentiert sein
+-> Extentions welche nicht realisiert wurden beschreiben.
+
+
+Code-Diagramm -> sehr detailiert, gut um software zu bauen schlecht für visualisierung 
+
+
+Systemsequenzdiagram -> zu viele Pfeile bzw nicht vorhandene/ nicht relevante aktionen.
+
+Code:
+-> defines für Konstanten verwenden
+-> initSuccess sinnlos
+-> max 5 Würfel wieso?
+
+Scrum
+dokumentation meetings usw.
+
