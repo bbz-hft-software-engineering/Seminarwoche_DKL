@@ -1,6 +1,15 @@
 # Seminarwoche_DKL
 
-Der Farbgreifer verfügt über eine Grundposition mit einem Wert von 450. Diese Position entspricht der mittleren Stellung des Farbgreifers, wenn sein Arm nicht ausgefahren ist.
+# Farbgreifer
+Projekt von Kerem, Laura und Daniel.
+
+## Allgemeines
+Das Ziel der Seminarwoche war es ein Softwareprojekt nach Scrum komplett abzuwickeln.
+Es wurde im Team ein Farbgreifer entwickelt. 
+
+## Ablauf Farbgreifer
+
+Der Farbgreifer startet von der Grundposition mit dem Wert 450. Diese Position entspricht der mittleren Stellung des Farbgreifers, wenn sein Arm nicht ausgefahren ist.
 
 Anschließend beginnt der Initialisierungsvorgang, bei dem der Arm des Farbgreifers von der mittleren Position auf den Wert 0 schwenkt, dann auf den Wert 900 und schließlich in die Grundposition zurückkehrt.
 
